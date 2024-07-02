@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/424.0.0.1.75;FBBV/443808621;FBDM/{density=2.0,width=720,height=1640};FBLC/en_GB;FBCR/Vodafone;FBMF/Infinix;FBBD/Infinix;FBPN/com.facebook.katana;FBDV/Infinix Hot 10;FBSV/10;FBOP/1;FBCA/armeabi-v7a:armeabi;]
